@@ -1,0 +1,200 @@
+[
+  {
+    "flag": "",
+    "service_name": "Virtual Office",
+    "description": "Get your official business & mailing address in Indonesia with us",
+    "validity_days": 365,
+    "ready_date": "2024-08-06",
+    "price": 183.6,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "BPJS Ketenagakerjaan Registration",
+    "description": "Registration of Indonesia social security system",
+    "validity_days": null,
+    "ready_date": "2024-08-19",
+    "price": 27.11,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Wajib Lapor Ketenagakerjaan (WLKP)",
+    "description": "Periodic employment reporting to government",
+    "validity_days": null,
+    "ready_date": "2024-08-19",
+    "price": 48.84,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Indonesian Passport Application - Extension Electronic Passport",
+    "description": "Extend electronic passport for Indonesian citizen",
+    "validity_days": 3650,
+    "ready_date": "2024-08-01",
+    "price": 97.72,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Indonesian Passport Application - Extension 48-Pages Passport",
+    "description": "Extend 48-pages passport for Indonesian citizen",
+    "validity_days": 3650,
+    "ready_date": "2024-08-01",
+    "price": 84.19,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Virtual Assistant Research",
+    "description": "Our travel-expert VA can you help sort out your research & travel-booking needs",
+    "validity_days": 5,
+    "ready_date": "2024-08-01",
+    "price": 18.96,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "BPJS Ketenagakerjaan Deregistration",
+    "description": "Deregistration from Indonesia social security system",
+    "validity_days": null,
+    "ready_date": "2024-10-02",
+    "price": 135.75,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "DPKK / DKPTKA Fee",
+    "description": "Additional government fee on the recruitment of foreign workers",
+    "validity_days": 365,
+    "ready_date": "2024-07-31",
+    "price": 1140.65,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Flight Booking, Hotel Booking, and Travel Insurance for Travel Visa",
+    "description": "Supporting documents to apply for Travel Visa",
+    "validity_days": 30,
+    "ready_date": "2024-08-01",
+    "price": 1.36,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Documents Translation",
+    "description": "Translate your document with our sworn-translator assistant",
+    "validity_days": null,
+    "ready_date": "2024-07-31",
+    "price": 16.25,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Airport Lane Fast Track",
+    "description": "Skip the queue, help you go through a special immigration lane",
+    "validity_days": 1,
+    "ready_date": "2024-08-01",
+    "price": 135.26,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Rencana Penggunaan Tenaga Kerja Warga Negara Asing (RPTKA)",
+    "description": "Expatriate hiring plan",
+    "validity_days": 180,
+    "ready_date": "2024-08-19",
+    "price": 54.27,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Exit Permit Only (EPO) & Exit Re-Entry Permit (ERP)",
+    "description": "Make EPO & ERP for documenting the end of your ITAS/ITAP in Indonesia",
+    "validity_days": null,
+    "ready_date": "2024-08-06",
+    "price": 55.95,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Document Pick-up and Delivery Service",
+    "description": "Add-on service for documents pick-up and delivery",
+    "validity_days": 30,
+    "ready_date": "2024-07-31",
+    "price": 2.72,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Work Permit Only",
+    "description": "If you already have KITAS and want to legally work in Indonesia, you need this",
+    "validity_days": 365,
+    "ready_date": "2024-09-18",
+    "price": 325.92,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "International Driver's License (SIM)",
+    "description": "Driving license issued by Indonesian authority that can be used in 92 countries",
+    "validity_days": 1095,
+    "ready_date": "2024-09-10",
+    "price": 27.11,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Indonesian Passport Application - New Application Electronic Passport",
+    "description": "Create new electronic passport for Indonesian citizen",
+    "validity_days": 3650,
+    "ready_date": "2024-08-01",
+    "price": 97.72,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Add-on Service",
+    "description": "Add-on Service",
+    "validity_days": 1,
+    "ready_date": "2024-08-06",
+    "price": 13.54,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Indonesian Passport Application - New Application 48-Pages Passport",
+    "description": "Create new 48-pages passport for Indonesian citizen",
+    "validity_days": 3650,
+    "ready_date": "2024-08-01",
+    "price": 84.19,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Additional Government Fee Offshore ITAS",
+    "description": "Additional government fee for ITAS application from outside Indonesia",
+    "validity_days": 1,
+    "ready_date": "2024-07-31",
+    "price": 156.93,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "BPJS Kesehatan Registration",
+    "description": "Registration of Indonesia universal health care system",
+    "validity_days": null,
+    "ready_date": "2024-08-19",
+    "price": 27.11,
+    "service_type": "other"
+  },
+  {
+    "flag": "",
+    "service_name": "Airport Meet & Greet",
+    "description": "We help you go through airport procedures with your personal VIP assistant",
+    "validity_days": 1,
+    "ready_date": "2024-08-06",
+    "price": 65.13,
+    "service_type": "other"
+  }
+]
