@@ -20,7 +20,7 @@ export function Card({
   currency,
 }: CardProps) {
 
-const formatDate = (value) => {
+const formatDate = (value:string) => {
     let date = new Date(value);
     const day = date.toLocaleString('default', { day: '2-digit' });
     const month = date.toLocaleString('default', { month: 'short' });
