@@ -24,7 +24,7 @@ export interface ServiceProps {
 
 export async function getStaticProps() {
   try {
-    const res = await fetch("http://localhost:8000/service/?format=json");
+    const res = await fetch("https://api.ktsabit.com/service/?format=json");
     const data = await res.json();
 
     return {
