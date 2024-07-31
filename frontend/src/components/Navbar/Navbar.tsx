@@ -17,7 +17,7 @@ export const Navbar: React.FC<NavbarProps> = ({openModal, currCode}) => {
       <div className="flex gap-8 w-full items-center max-w-7xl">
         <Logo />
         <nav className="flex flex-grow gap-4">
-          <Link className="font-bold" href="/services?group=service">Visa & Permits</Link>
+          <Link className="font-bold" href="/services?group=service&currency=IDR">Visa & Permits</Link>
           <Link className="font-bold" href="/">My Account</Link>
           <Link className="font-bold" href="/">Company</Link>
           <Link className="font-bold" href="/">Home</Link>
