@@ -19,6 +19,22 @@ export function Card({
   flag,
   currency,
 }: CardProps) {
+
+  const formatDate = (dateString) => {
+    const date = new Date(dateString);
+    const options = { day: '2-digit', month: 'short', year: 'numeric' };
+    return date.toLocaleDateString('en-GB', options);
+  }
+
+  const priceFmt = (number) => {
+    return new Intl.NumberFormat('en-GB', {
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 2
+    }).format(number)
+  }
+
+  
+  
   return (
     <div className="w-full cursor-pointer flex flex-col rounded-lg h-48 justify-between p-4 bg-white mx-auto shadow-card">
       <div className="flex flex-col gap-1">
@@ -35,10 +51,10 @@ export function Card({
         )}
         <div className="flex items-center gap-2 text-xs">
           <CalendarBlank size={16} />
-          <p>Ready by {ready_date}</p>
+          <p>Ready by {formatDate(ready_date)}</p>
         </div>
       </div>
-      <p className="text-sm">Starting from {currency} {price}</p>
+      <p className="text-sm">Starting from {currency} {priceFmt(price)}</p>
     </div>
   );
 }
