@@ -27,7 +27,7 @@ export function Card({
   }
 
   const priceFmt = (number) => {
-    return new Intl.NumberFormat('en-GB', {
+    return new Intl.NumberFormat('id-ID', {
       minimumFractionDigits: 2,
       maximumFractionDigits: 2
     }).format(number)
