@@ -1,11 +1,1244 @@
 [
   {
+    "flag": "🇦🇺",
+    "service_name": "Australia Work and Holiday Visa (462)",
+    "description": "This visa allows you to have work while having holiday in Australia.",
+    "validity_days": 365,
+    "ready_date": "2025-08-18",
+    "price": 9799000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇦🇺",
+    "service_name": "Australia Temporary Skill Shortage Visa (482)",
+    "description": "Visa to Work in Australia",
+    "validity_days": 730,
+    "ready_date": "2024-10-24",
+    "price": 21499000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇦🇺",
+    "service_name": "Australia Visitor Visa (600)",
+    "description": "Australia Visitor Visa is an entry permit for tourists, business visitors or to visit family.",
+    "validity_days": 365,
+    "ready_date": "2024-08-29",
+    "price": 2799000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Electronic Visa on Arrival (B)",
+    "description": "Ideal if you only spend max 30 days in Indonesia with minimum processing time",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 799000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇺🇸",
+    "service_name": "United States Business and Tourist Visa (B1/B2)",
+    "description": "The B1/B2 visitor visa is for people traveling to the United States temporarily for business, pleasure or medical treatment for a specific, limited period of time.",
+    "validity_days": null,
+    "ready_date": "2024-09-26",
+    "price": 3599000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Tourist Visa (C1)",
+    "description": "Ideal for tourists who wants to explore in short term and not planning to go outside of the country",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 2839000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Invited Event Speakers Visa (C10)",
+    "description": "This visa is needed to attend a meeting, convention, and exhibition as a source person, speaker, presenter, preacher, or influencer.",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 3279000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Pre-Investment Visa (C12)",
+    "description": "This visa is needed if you want to enter Indonesia for pre-investment purpose, such as survey and meetings",
+    "validity_days": 180,
+    "ready_date": "2024-08-07",
+    "price": 10699000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Single Entry Visa - Filming (C14)",
+    "description": "This type of visa is needed to make films within Indonesia territory",
+    "validity_days": 60,
+    "ready_date": "2024-08-07",
+    "price": 3279999.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Foreign Worker Work Trial Visa (C18)",
+    "description": "A single-entry visa for a foreigner candidate who is invited to conduct work trial from government agency or private institution.",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 3279000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Business Visa (C2)",
+    "description": "Visa for conducting business meetings, negotiation, and contract signing in Indonesia",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 3279000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Internship Visa (C22)",
+    "description": "For Indonesia internship, an option of single-entry visa is suitable for foreigner to stay max 6 months.",
+    "validity_days": 180,
+    "ready_date": "2024-08-07",
+    "price": 8769000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇷",
+    "service_name": "Korea Multiple Entry General Visit Visa (C-3-1)",
+    "description": "Ideal visa if you want to visit South Korea multiple times with longer period visa validity to attend an event, meeting, or short training.",
+    "validity_days": 1825,
+    "ready_date": "2024-08-14",
+    "price": 2649000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇷",
+    "service_name": "Korea Single Entry General Visit Visa (C-3-1)",
+    "description": "Ideal visa if you want to visit South Korea to attend an event, meeting, or short training.",
+    "validity_days": 90,
+    "ready_date": "2024-08-14",
+    "price": 1749000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇷",
+    "service_name": "Korea Double Entry General Visit Visa (C-3-1)",
+    "description": "Ideal visa if you want to visit South Korea twice within 6 months period to attend an event, meeting, or short training.",
+    "validity_days": 180,
+    "ready_date": "2024-08-14",
+    "price": 2249000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇷",
+    "service_name": "Korea Single Entry Medical Visa (C-3-3)",
+    "description": "A visa for patients or a caregiver of the patient who wish to enter South Korea for medical treatment.",
+    "validity_days": 90,
+    "ready_date": "2024-08-14",
+    "price": 1749000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇷",
+    "service_name": "Korea Multiple Entry Tourist Visa (C-3-9)",
+    "description": "Ideal for tourists who wants to explore South Korea multiple times with longer visa validity",
+    "validity_days": 1825,
+    "ready_date": "2024-08-14",
+    "price": 2649000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇷",
+    "service_name": "Korea Single Entry Tourist Visa (C-3-9)",
+    "description": "Ideal for tourists who wants to explore South Korea in short term and not planning to go outside of the country",
+    "validity_days": 90,
+    "ready_date": "2024-08-14",
+    "price": 1749000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇷",
+    "service_name": "Korea Double Entry Tourist Visa (C-3-9)",
+    "description": "Ideal for tourists who wants to explore South Korea twice within 6 months",
+    "validity_days": 180,
+    "ready_date": "2024-08-14",
+    "price": 2249000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Social/Culture Visa (C6)",
+    "description": "Visa for sociocultural activity/engagement in Indonesia, such as exchange program and volunteering",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 3279000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Visa - Music Performer (C7A)",
+    "description": "If you are an artist who will carry out music performance in Indonesia, this visa is a necessary entry document.",
+    "validity_days": 60,
+    "ready_date": "2024-08-07",
+    "price": 3279999.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Visa - Music Crew (C7B)",
+    "description": "If you are a crew who support a foreign artist to carry out music performance in Indonesia, this visa is a necessary entry document.",
+    "validity_days": 60,
+    "ready_date": "2024-08-07",
+    "price": 3279999.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Short Course and Education Internship Visa (C9)",
+    "description": "This visa is needed to pursue short course or short-term Indonesia internship at an education institution",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 3279000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Multiple Entry Tourist Visa (D1)",
+    "description": "If you’re a tourist and looking to travel back and forth outside of Indonesia, this is the right visa type for you.",
+    "validity_days": 365,
+    "ready_date": "2024-08-07",
+    "price": 5919000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Multiple Entry Business Visa (D2)",
+    "description": "If you’re traveling for business purpose and looking to travel back and forth outside of Indonesia, this is the right visa type for you.",
+    "validity_days": 365,
+    "ready_date": "2024-08-07",
+    "price": 5919000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇷",
+    "service_name": "Korea Single Entry Short Course Visa (D-2-8)",
+    "description": "A visa for short course in South Korea for max 1 year",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 2149000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇸🇬",
+    "service_name": "Registration Singapore Entrepreneur Pass Visa (EntrePass)",
+    "description": "A visa for foreign entrepreneurs and investors to start companies in Singapore",
+    "validity_days": 365,
+    "ready_date": "2024-10-30",
+    "price": 2299000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇯🇵",
+    "service_name": "Japan Visa Exemption Online Registration (JAVES)",
+    "description": "Indonesian with IC/e-passport can enter Japan for 15 days with waived visa. You just have to register for your travel.",
+    "validity_days": 1095,
+    "ready_date": "2024-08-07",
+    "price": 125000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇹🇼",
+    "service_name": "Taiwan Travel Authorization Certificate (TAC)",
+    "description": "Travel Authorization Certificate for Indonesian who meet certain requirements and allowed to stay 14 days in Taiwan",
+    "validity_days": 90,
+    "ready_date": "2024-08-05",
+    "price": 249000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇨🇳",
+    "service_name": "China Double Entry Tourist Visa (Visa-F)",
+    "description": "Double entry for independent tourists, with stay duration based on your itinerary",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 1289900.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇨🇳",
+    "service_name": "China Single Entry Tourist Visa (Visa-F)",
+    "description": "Ideal for first-time tourists planning a short stay visit to China",
+    "validity_days": 30,
+    "ready_date": "2024-08-07",
+    "price": 1019900.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇨🇳",
+    "service_name": "China Multiple Entry Tourist Visa - 6 Months (Visa-F)",
+    "description": "Ideal for tourists who wants to explore China for multiple entry within 6 months period",
+    "validity_days": 180,
+    "ready_date": "2024-08-07",
+    "price": 1559900.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Denmark",
+    "description": "A Denmark Schengen visa is an entry permit to Denmark for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇧🇹",
+    "service_name": "Bhutan Single Entry Visa",
+    "description": "Bhutan Single Visa is a permit to enter Bhutan for 30 days with validity of 180 days",
+    "validity_days": 180,
+    "ready_date": "2024-08-20",
+    "price": 959000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇧🇼",
+    "service_name": "Botswana Single Entry Visa",
+    "description": "Botswana Single Visa is a permit to enter Botswana for 30 days with validity of 30 days",
+    "validity_days": 30,
+    "ready_date": "2024-08-20",
+    "price": 619000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇨🇮",
+    "service_name": "Côte d’Ivoire Multiple Entry Visa",
+    "description": "Côte d’Ivoire Multiple Visa is a permit to enter Côte d’Ivoire for 90 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 7099000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇨🇲",
+    "service_name": "Cameroon Single Entry Visa",
+    "description": "Cameroon Single Visa is a permit to enter Cameroon for 60 days with validity of 180 days",
+    "validity_days": 180,
+    "ready_date": "2024-08-20",
+    "price": 3979000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇬🇳",
+    "service_name": "Guinea Single Entry Visa",
+    "description": "Guinea Single Visa is a permit to enter Guinea for 90 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 3159000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇳",
+    "service_name": "India Single Entry Visa",
+    "description": "India Single Visa is a permit to enter India for 30 days with validity of 30 days",
+    "validity_days": 30,
+    "ready_date": "2024-08-09",
+    "price": 1549000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇪",
+    "service_name": "Kenya Electronic Travel Authorization",
+    "description": "Kenya Electronic Travel Authorization is a permit to enter Jordan for 90 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 1199000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇰🇬",
+    "service_name": "Kyrgyzstan Single Entry Visa",
+    "description": "Kyrgyzstan Single Visa is a permit to enter Kyrgyzstan for 30 days with validity of 30 days",
+    "validity_days": 30,
+    "ready_date": "2024-08-20",
+    "price": 1779000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇱🇰",
+    "service_name": "Sri Lanka Multiple Entry Visa",
+    "description": "Sri Lanka Multiple Visa is a permit to enter Sri Lanka for 30 days with validity of 180 days",
+    "validity_days": 180,
+    "ready_date": "2024-08-05",
+    "price": 1657500.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇲🇼",
+    "service_name": "Malawi Single Entry Visa",
+    "description": "Malawi Single Visa is a permit to enter Malawi for 30 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-29",
+    "price": 1149000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇲🇿",
+    "service_name": "Mozambique Multiple Entry Visa",
+    "description": "Mozambique Multiple Visa is a permit to enter Mozambique for 30 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 1199000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇳🇵",
+    "service_name": "Nepal Single Entry Visa",
+    "description": "Nepal Single Visa is a permit to enter Nepal for 90 days with validity of 15 days",
+    "validity_days": 15,
+    "ready_date": "2024-08-20",
+    "price": 599000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇴🇲",
+    "service_name": "Oman Single Entry Visa",
+    "description": "Oman Single Visa is a permit to enter Oman for 30 days with validity of 30 days",
+    "validity_days": 30,
+    "ready_date": "2024-08-07",
+    "price": 1789000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇵🇬",
+    "service_name": "Papua New Guinea Single Entry Visa",
+    "description": "Papua New Guinea Single Visa is a permit to enter Papua New Guinea for 60 days with validity of 60 days",
+    "validity_days": 60,
+    "ready_date": "2024-08-20",
+    "price": 2079000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇲🇩",
+    "service_name": "Moldova Single Entry Visa",
+    "description": "Moldova Single Visa is a permit to enter Moldova for 90 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-09-09",
+    "price": 1869000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇳🇿",
+    "service_name": "Single Entry New Zealand Visitor Visa",
+    "description": "Visa to visit New Zealand. You can stay for up to either 6 months for multiple entry, but not for work purpose.",
+    "validity_days": 180,
+    "ready_date": "2024-09-09",
+    "price": 3299000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇵🇰",
+    "service_name": "Pakistan Single Entry Visa",
+    "description": "Pakistan Single Visa is a permit to enter Pakistan for 30 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-29",
+    "price": 2499000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇸🇨",
+    "service_name": "Seychelles Embarkation Information Form",
+    "description": "Seychelles Electronic Travel Authorization is a form which have to be submitted prior your visit to Seychelles up to 30 days",
+    "validity_days": 30,
+    "ready_date": "2024-08-20",
+    "price": 549000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇸🇩",
+    "service_name": "Sudan Single Entry Visa",
+    "description": "Sudan Single Visa is a permit to enter Sudan for 90 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 1919000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇸🇱",
+    "service_name": "Sierra Leone Single Entry Visa",
+    "description": "Sierra Leone Single Visa is a permit to enter Sierra Leone for 30 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 1599000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇸🇹",
+    "service_name": "Sao Tome and Principe Single Entry Visa",
+    "description": "Sao Tome and Principe Single Visa is a permit to enter Sao Tome and Principe for 30 days with validity of 30 days",
+    "validity_days": 30,
+    "ready_date": "2024-09-09",
+    "price": 959000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇦🇪",
+    "service_name": "United Arab Emirates Single Entry Visa",
+    "description": "United Arab Emirates Single Visa is a permit to enter United Arab Emirates for 30 days with validity of 60 days",
+    "validity_days": 60,
+    "ready_date": "2024-08-09",
+    "price": 2669000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇦🇴",
+    "service_name": "Angola Multiple Entry Visa",
+    "description": "Angola Multiple Visa is a permit to enter Angola for 30 days with validity of 120 days",
+    "validity_days": 120,
+    "ready_date": "2024-08-14",
+    "price": 1279000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Business Visa from Pakistan/Sri Lanka/Bangladesh",
+    "description": "Visa for citizen of Pakistan/Sri Lanka/Bangladesh to conducting business meetings, negotiation, and contract signing in Indonesia",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 6499000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇹🇼",
+    "service_name": "Multiple Entry Taiwan Visitor Visa",
+    "description": "Visa to visit Taiwan. You can stay for up to 3 months for tourism only.",
+    "validity_days": 180,
+    "ready_date": "2024-08-14",
+    "price": 2100000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇪🇺",
+    "service_name": "Schengen Visa",
+    "description": "A Schengen visa is an entry permit to EU countries for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": null,
+    "price": 3499000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇪🇸",
+    "service_name": "Spain Short Stay - Tourist Visa",
+    "description": "A short-stay tourist visa is to enter Spain",
+    "validity_days": null,
+    "ready_date": "2024-09-11",
+    "price": 3249900.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇦🇬",
+    "service_name": "Antigua and Barbuda Single Entry Visa",
+    "description": "Antigua and Barbuda Single Visa is a permit to enter Antigua and Barbuda for 90 days with validity of 180 days",
+    "validity_days": 180,
+    "ready_date": "2024-09-30",
+    "price": 1919000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇦🇱",
+    "service_name": "Albania Single Entry Visa",
+    "description": "Albania Single Visa is a permit to enter Albania for 90 days with validity of 180 days",
+    "validity_days": 180,
+    "ready_date": "2024-08-22",
+    "price": 2499000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇦🇲",
+    "service_name": "Armenia Single Entry Visa",
+    "description": "Armenia Single Visa is a permit to enter Armenia for 21 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-09",
+    "price": 449000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇿🇦",
+    "service_name": "South Africa Single Entry Visa",
+    "description": "South Africa Single Visa is a permit to enter South Africa for 90 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-29",
+    "price": 1199000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Tourist Visa from Pakistan/Sri Lanka/Bangladesh",
+    "description": "Ideal for tourists from Pakistan/Sri Lanka/Bangladesh who want to explore in short term and not planning to go outside of the country",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 6499000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇬🇦",
+    "service_name": "Gabon Single Entry Visa",
+    "description": "Gabon Single Visa is a permit to enter Gabon for 30 days with validity of 30 days",
+    "validity_days": 30,
+    "ready_date": "2024-08-20",
+    "price": 3200000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇪🇹",
+    "service_name": "Ethiopia Single Entry Visa",
+    "description": "Ethiopia Single Visa is a permit to enter Ethiopia for 30 days with validity of 30 days",
+    "validity_days": 30,
+    "ready_date": "2024-08-20",
+    "price": 2269000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Social/Culture Visa from Pakistan/Sri Lanka/Bangladesh",
+    "description": "Visa for Pakistan/Sri Lanka/Bangladesh citizen to conduct sociocultural activity/engagement in Indonesia, such as exchange program and volunteering",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 6499000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇬🇪",
+    "service_name": "Georgia Multiple Entry Visa",
+    "description": "Georgia Multiple Visa is a permit to enter Georgia for 30 days with validity of 120 days",
+    "validity_days": 120,
+    "ready_date": "2024-08-29",
+    "price": 1279000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇯🇵",
+    "service_name": "Japan Temporary Visit Tourism Visa",
+    "description": "Visa needed to stay in Japan up to 90 days with regular passport",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 1249900.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Croatia",
+    "description": "A Croatia Schengen visa is an entry permit to Croatia for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Slovakia",
+    "description": "Slovakia Schengen visa is an entry permit to Slovakia for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Hungary",
+    "description": "Schengen Hungary visa is an entry permit to Hungary for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇧🇸",
+    "service_name": "The Bahamas Single Entry Visa",
+    "description": "The Bahamas Single Visa is a permit to enter The Bahamas for 90 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 1919000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Iceland",
+    "description": "Iceland Schengen visa is an entry permit to Iceland for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Sweden",
+    "description": "Sweden Schengen visa is an entry permit to Sweden for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇳",
+    "service_name": "India Multiple Entry Visa",
+    "description": "India Multiple Visa is a permit to enter India for 180 days with validity of 5 years days",
+    "validity_days": 1825,
+    "ready_date": "2024-08-09",
+    "price": 1549000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇯🇴",
+    "service_name": "Jordan Single Entry Visa",
+    "description": "Jordan Single Visa is a permit to enter Jordan for 30 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 1249000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Single Entry Business Visa (Event Only)",
+    "description": "A visa to attend business event in Indonesia for people from Afghanistan, Guinea, Israel, North Korea, Liberia, Nigeria, and Somalia",
+    "validity_days": 90,
+    "ready_date": "2024-08-21",
+    "price": 12500000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen Germany Tourism Visa",
+    "description": "A Germany Schengen tourism visa is an entry permit to Germany for a short, temporary visit for tourism purpose with stay period up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": 3739000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇦🇴",
+    "service_name": "Angola Single Entry Visa",
+    "description": "Angola Single Visa is a permit to enter Angola for 90 days with validity of 60 days",
+    "validity_days": 60,
+    "ready_date": "2024-08-22",
+    "price": 3519000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇧🇫",
+    "service_name": "Burkina Faso Single Entry Visa",
+    "description": "Burkina Faso Single Visa is a permit to enter Burkina Faso for 90 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 2559000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇧🇭",
+    "service_name": "Bahrain Multiple Entry Visa",
+    "description": "Bahrain Multiple Visa is a permit to enter Bahrain for 30 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-09",
+    "price": 1619000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Belgium",
+    "description": "A Belgium Schengen visa is an entry permit to Belgium for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": null,
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Latvia",
+    "description": "Latvia Schengen visa is an entry permit to Latvia for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Norway",
+    "description": "Norway Schengen visa is an entry permit to Norway for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Bulgaria",
+    "description": "A Bulgaria Schengen visa is an entry permit to Bulgaria for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇹",
+    "service_name": "Schengen Italy Tourist Visa",
+    "description": "An entry permit to Italy for a tourism purpose up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": 3099000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇧🇭",
+    "service_name": "Bahrain Single Visa",
+    "description": "Bahrain Single Visa is a permit to enter Bahrain for 14 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-09",
+    "price": 1339000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇹🇴",
+    "service_name": "Tonga Visitor Entry Visa",
+    "description": "Visa to visit Tonga for tourism purpose",
+    "validity_days": 30,
+    "ready_date": "2024-08-29",
+    "price": 1499000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇬🇧",
+    "service_name": "United Kingdom Standard Visitor Visa",
+    "description": "UK Standard Visitor is an entry permit for tourism, business, and short-course.",
+    "validity_days": 180,
+    "ready_date": "2024-08-29",
+    "price": 3659000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Netherlands",
+    "description": "A Netherlands Schengen visa is an entry permit to Netherlands for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇧🇯",
+    "service_name": "Benin Single Entry Visa",
+    "description": "Benin Single Visa is a permit to enter Benin for 30 days with validity of 30 days",
+    "validity_days": 30,
+    "ready_date": "2024-08-20",
+    "price": 1199000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Austria",
+    "description": "Austria Schengen visa is an entry permit to Austria for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇫🇷",
+    "service_name": "France Short Stay - Tourist Visa",
+    "description": "A short-stay tourist visa is to enter France",
+    "validity_days": null,
+    "ready_date": "2024-09-11",
+    "price": 3649900.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇹🇭",
+    "service_name": "Thailand Single Entry Tourist Visa",
+    "description": "Visa to stay in Thailand for tourism purpose for no long than 60 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-14",
+    "price": 2799000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Switzerland",
+    "description": "A Switzerland Schengen visa is an entry permit to Switzerland for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇯🇵",
+    "service_name": "Japan Temporary Family Visit Visa",
+    "description": "Visa needed to stay in Japan up to 90 days with regular passport to visit family or friend",
+    "validity_days": 90,
+    "ready_date": "2024-08-20",
+    "price": 1249900.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Czech Republic",
+    "description": "A Czech Republic Schengen visa is an entry permit to Czech Republic for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Portugal",
+    "description": "Portugal Schengen visa is an entry permit to Portugal for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "",
+    "service_name": "Schengen - Finland",
+    "description": "A Finland Schengen visa is an entry permit to Finland for a short, temporary visit of up to 90 days in any 180-day period.",
+    "validity_days": null,
+    "ready_date": "2024-09-04",
+    "price": null,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇹🇿",
+    "service_name": "Tanzania Single Entry Visa",
+    "description": "Tanzania Single Visa is a permit to enter Tanzania for 90 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-29",
+    "price": 1949000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇺🇬",
+    "service_name": "Uganda Single Entry Visa",
+    "description": "Uganda Single Visa is a permit to enter Uganda for 45 days with validity of 90 days",
+    "validity_days": 90,
+    "ready_date": "2024-08-09",
+    "price": 1779000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇹🇼",
+    "service_name": "Single Entry Taiwan Visitor Visa",
+    "description": "Visa to visit Taiwan. You can stay for up to 3 months for tourism only.",
+    "validity_days": 180,
+    "ready_date": "2024-08-14",
+    "price": 1050000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Working ITAS to Work in Established Company (E23)",
+    "description": "ITAS to carry out work in an employment relationship with the guarantor",
+    "validity_days": 730,
+    "ready_date": "2024-08-29",
+    "price": 10119000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Working ITAS to Work in Established Digital Company (E24)",
+    "description": "ITAS to carry out work in the digital field in a working relationship with the guarantor",
+    "validity_days": 365,
+    "ready_date": "2024-08-29",
+    "price": 10119000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Executive Director/Commissioner ITAS for Established Indonesia Branch (E25)",
+    "description": "ITAS to carry out work as a executive directors/commissioners in a working relationship with the guarantor",
+    "validity_days": 365,
+    "ready_date": "2024-08-29",
+    "price": 10119000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Investor ITAS (E28A)",
+    "description": "ITAS for an investor to stay in Indonesia max 2 years",
+    "validity_days": 730,
+    "ready_date": "2024-09-30",
+    "price": 17999000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Investor ITAS by Establishing Company (E28B)",
+    "description": "ITAS for an investor who plan to establish a new company in Indonesia with stay period 5/10 years.",
+    "validity_days": 3650,
+    "ready_date": "2024-09-30",
+    "price": 35879000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Investor ITAS by Investing in Indonesia Financial Instrument (E28C)",
+    "description": "ITAS for an investor who plan to invest in Indonesia financial instrument",
+    "validity_days": 3650,
+    "ready_date": "2024-09-30",
+    "price": 35879000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Executive Director/Commissioner ITAS for Corporate Investor (E28D)",
+    "description": "ITAS for executive directors/commissioners of a company which plan to establish its branch in Indonesia",
+    "validity_days": 3650,
+    "ready_date": "2024-08-29",
+    "price": 35879000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Research ITAS (E29)",
+    "description": "ITAS for carry out research in Indonesia",
+    "validity_days": 365,
+    "ready_date": "2024-08-29",
+    "price": 14839000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Student ITAS (E30)",
+    "description": "ITAS to pursue education in Indonesia",
+    "validity_days": 365,
+    "ready_date": "2024-08-29",
+    "price": 14839000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "ITAS for Spouse of Indonesia Citizen (E31A)",
+    "description": "ITAS to join an Indonesian spouse",
+    "validity_days": 730,
+    "ready_date": "2024-08-29",
+    "price": 12599000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Spouse ITAS (E31B)",
+    "description": "ITAS to join an ITAS holder spouse in Indonesia",
+    "validity_days": 3650,
+    "ready_date": "2024-08-29",
+    "price": 10119000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Repatriation ITAS (E32A)",
+    "description": "ITAS for long-term stay of ex-Indonesian citizen",
+    "validity_days": 1825,
+    "ready_date": "2024-09-19",
+    "price": 36229000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Descendant ITAS (E32B)",
+    "description": "ITAS for decendants of ex-Indonesian citizen",
+    "validity_days": 3650,
+    "ready_date": "2024-09-19",
+    "price": 36229000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Second Home ITAS (E33)",
+    "description": "ITAS for foreigners who live permanently in Indonesia after fulfilling certain requirements.",
+    "validity_days": 1825,
+    "ready_date": "2024-09-19",
+    "price": 39999000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Retirement ITAS (E33F)",
+    "description": "ITAS for elders who live in Indonesia with maximum stay of 1 year",
+    "validity_days": 365,
+    "ready_date": "2024-09-19",
+    "price": 15999000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Remote Worker ITAS (E33G)",
+    "description": "Limited stay permite (ITAS) for remote worker to stay in Indonesia or digital nomad visa.",
+    "validity_days": 365,
+    "ready_date": "2024-09-19",
+    "price": 11729000.0,
+    "service_type": "visa"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Electronic Visa on Arrival Extension (B)",
+    "description": "For holders of visa on arrival (both electronic and on-site) who are loooking to extend their stay in Indonesia",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 919000.0,
+    "service_type": "extension"
+  },
+  {
+    "flag": "🇺🇸",
+    "service_name": "United States B1/B2 Visa Extension with Interview Waiver (B1/B2)",
+    "description": "Extend your USA B1/B2 Visa with Interview Waiver if you are qualified.",
+    "validity_days": null,
+    "ready_date": "2024-08-20",
+    "price": 3599000.0,
+    "service_type": "extension"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Tourist Visa Extension (C1)",
+    "description": "For holders of single entry tourist visa who are loooking to extend their stay in Indonesia",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 2839000.0,
+    "service_type": "extension"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Business Visa Extension (C2)",
+    "description": "Visa for conducting business meetings in Indonesia",
+    "validity_days": 90,
+    "ready_date": "2024-08-07",
+    "price": 3999000.0,
+    "service_type": "extension"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Social/Culture Visa Extension (C6)",
+    "description": "For holders of single entry social visa/culture visa who are loooking to extend their stay in Indonesia",
+    "validity_days": 90,
+    "ready_date": "2024-08-14",
+    "price": 3999000.0,
+    "service_type": "extension"
+  },
+  {
+    "flag": "🇮🇩",
+    "service_name": "Indonesia Single Entry Social/Culture Visa Extension with Different Sponsor (C6)",
+    "description": "For holders of single entry social/culture visa who are loooking to extend their stay in Indonesia",
+    "validity_days": 90,
+    "ready_date": "2024-08-14",
+    "price": 3999000.0,
+    "service_type": "extension"
+  },
+  {
+    "flag": "",
+    "service_name": "Annual Individual Income Tax Return",
+    "description": "Get assistance to handle your annual personal income tax return",
+    "validity_days": 30,
+    "ready_date": "2024-08-07",
+    "price": 2640000.0,
+    "service_type": "tax"
+  },
+  {
+    "flag": "",
+    "service_name": "Tax Consultation",
+    "description": "We will connect you with our network of certified tax consultants in Indonesia to help you with all your personal tax-related matters",
+    "validity_days": 1,
+    "ready_date": "2024-08-07",
+    "price": 2640000.0,
+    "service_type": "tax"
+  },
+  {
+    "flag": "",
+    "service_name": "Monthly Tax Return and Payroll Services",
+    "description": "We will connect you with our network of certified tax consultants",
+    "validity_days": 30,
+    "ready_date": "2024-08-07",
+    "price": 8000000.0,
+    "service_type": "tax"
+  },
+  {
+    "flag": "",
+    "service_name": "Annual Corporate Income Tax Return",
+    "description": "Get assistance to handle your company's income tax return",
+    "validity_days": 30,
+    "ready_date": "2024-09-11",
+    "price": 13200000.0,
+    "service_type": "tax"
+  },
+  {
+    "flag": "",
+    "service_name": "Foreign Incorporation (PT PMA) (PMA)",
+    "description": "We can help you register your foreign-owned business in Indonesia",
+    "validity_days": null,
+    "ready_date": "2024-09-09",
+    "price": 27999000.0,
+    "service_type": "legal"
+  },
+  {
+    "flag": "",
+    "service_name": "Legalisasi Notaris (Waarmeking)",
+    "description": "Legalization of documents by notary",
+    "validity_days": null,
+    "ready_date": "2024-08-06",
+    "price": 599000.0,
+    "service_type": "legal"
+  },
+  {
+    "flag": "",
+    "service_name": "Local Incorporation (PT)",
+    "description": "We can help you register your locally-owned business in Indonesia in PT format",
+    "validity_days": null,
+    "ready_date": "2024-08-20",
+    "price": 3300000.0,
+    "service_type": "legal"
+  },
+  {
+    "flag": "",
+    "service_name": "Local Incorporation (Firma)",
+    "description": "We can help you register your locally-owned business in Indonesia in Firma format",
+    "validity_days": null,
+    "ready_date": "2024-08-20",
+    "price": 7293000.0,
+    "service_type": "legal"
+  },
+  {
+    "flag": "",
+    "service_name": "Local Foundation (Yayasan)",
+    "description": "We can help you register your locally-owned foundation (non-profit) in Indonesia",
+    "validity_days": null,
+    "ready_date": "2024-08-20",
+    "price": 8415000.0,
+    "service_type": "legal"
+  },
+  {
+    "flag": "",
+    "service_name": "Business License Number (NIB) Creation",
+    "description": "Register an official business license number (NIB) for your business",
+    "validity_days": null,
+    "ready_date": "2024-08-20",
+    "price": 3300000.0,
+    "service_type": "legal"
+  },
+  {
+    "flag": "",
+    "service_name": "Local Incorporation (CV)",
+    "description": "We can help you register your locally-owned business in Indonesia in CV format",
+    "validity_days": null,
+    "ready_date": "2024-08-20",
+    "price": 8580000.0,
+    "service_type": "legal"
+  },
+  {
     "flag": "",
     "service_name": "Virtual Office",
     "description": "Get your official business & mailing address in Indonesia with us",
     "validity_days": 365,
-    "ready_date": "2024-08-06",
-    "price": 183.6,
+    "ready_date": "2024-08-07",
+    "price": 3379999.0,
     "service_type": "other"
   },
   {
@@ -13,8 +1246,8 @@
     "service_name": "BPJS Ketenagakerjaan Registration",
     "description": "Registration of Indonesia social security system",
     "validity_days": null,
-    "ready_date": "2024-08-19",
-    "price": 27.11,
+    "ready_date": "2024-08-20",
+    "price": 499000.0,
     "service_type": "other"
   },
   {
@@ -22,8 +1255,8 @@
     "service_name": "Wajib Lapor Ketenagakerjaan (WLKP)",
     "description": "Periodic employment reporting to government",
     "validity_days": null,
-    "ready_date": "2024-08-19",
-    "price": 48.84,
+    "ready_date": "2024-08-20",
+    "price": 899000.0,
     "service_type": "other"
   },
   {
@@ -31,8 +1264,8 @@
     "service_name": "Indonesian Passport Application - Extension Electronic Passport",
     "description": "Extend electronic passport for Indonesian citizen",
     "validity_days": 3650,
-    "ready_date": "2024-08-01",
-    "price": 97.72,
+    "ready_date": "2024-08-02",
+    "price": 1799000.0,
     "service_type": "other"
   },
   {
@@ -40,8 +1273,8 @@
     "service_name": "Indonesian Passport Application - Extension 48-Pages Passport",
     "description": "Extend 48-pages passport for Indonesian citizen",
     "validity_days": 3650,
-    "ready_date": "2024-08-01",
-    "price": 84.19,
+    "ready_date": "2024-08-02",
+    "price": 1549900.0,
     "service_type": "other"
   },
   {
@@ -49,8 +1282,8 @@
     "service_name": "Virtual Assistant Research",
     "description": "Our travel-expert VA can you help sort out your research & travel-booking needs",
     "validity_days": 5,
-    "ready_date": "2024-08-01",
-    "price": 18.96,
+    "ready_date": "2024-08-02",
+    "price": 349000.0,
     "service_type": "other"
   },
   {
@@ -58,8 +1291,8 @@
     "service_name": "BPJS Ketenagakerjaan Deregistration",
     "description": "Deregistration from Indonesia social security system",
     "validity_days": null,
-    "ready_date": "2024-10-02",
-    "price": 135.75,
+    "ready_date": "2024-10-03",
+    "price": 2499000.0,
     "service_type": "other"
   },
   {
@@ -67,8 +1300,8 @@
     "service_name": "DPKK / DKPTKA Fee",
     "description": "Additional government fee on the recruitment of foreign workers",
     "validity_days": 365,
-    "ready_date": "2024-07-31",
-    "price": 1140.65,
+    "ready_date": "2024-08-01",
+    "price": 20999000.0,
     "service_type": "other"
   },
   {
@@ -76,8 +1309,8 @@
     "service_name": "Flight Booking, Hotel Booking, and Travel Insurance for Travel Visa",
     "description": "Supporting documents to apply for Travel Visa",
     "validity_days": 30,
-    "ready_date": "2024-08-01",
-    "price": 1.36,
+    "ready_date": "2024-08-02",
+    "price": 25000.0,
     "service_type": "other"
   },
   {
@@ -85,8 +1318,8 @@
     "service_name": "Documents Translation",
     "description": "Translate your document with our sworn-translator assistant",
     "validity_days": null,
-    "ready_date": "2024-07-31",
-    "price": 16.25,
+    "ready_date": "2024-08-01",
+    "price": 299000.0,
     "service_type": "other"
   },
   {
@@ -94,8 +1327,8 @@
     "service_name": "Airport Lane Fast Track",
     "description": "Skip the queue, help you go through a special immigration lane",
     "validity_days": 1,
-    "ready_date": "2024-08-01",
-    "price": 135.26,
+    "ready_date": "2024-08-02",
+    "price": 2490000.0,
     "service_type": "other"
   },
   {
@@ -103,8 +1336,8 @@
     "service_name": "Rencana Penggunaan Tenaga Kerja Warga Negara Asing (RPTKA)",
     "description": "Expatriate hiring plan",
     "validity_days": 180,
-    "ready_date": "2024-08-19",
-    "price": 54.27,
+    "ready_date": "2024-08-20",
+    "price": 999000.0,
     "service_type": "other"
   },
   {
@@ -112,8 +1345,8 @@
     "service_name": "Exit Permit Only (EPO) & Exit Re-Entry Permit (ERP)",
     "description": "Make EPO & ERP for documenting the end of your ITAS/ITAP in Indonesia",
     "validity_days": null,
-    "ready_date": "2024-08-06",
-    "price": 55.95,
+    "ready_date": "2024-08-07",
+    "price": 1029999.0,
     "service_type": "other"
   },
   {
@@ -121,8 +1354,8 @@
     "service_name": "Document Pick-up and Delivery Service",
     "description": "Add-on service for documents pick-up and delivery",
     "validity_days": 30,
-    "ready_date": "2024-07-31",
-    "price": 2.72,
+    "ready_date": "2024-08-01",
+    "price": 49900.0,
     "service_type": "other"
   },
   {
@@ -130,8 +1363,8 @@
     "service_name": "Work Permit Only",
     "description": "If you already have KITAS and want to legally work in Indonesia, you need this",
     "validity_days": 365,
-    "ready_date": "2024-09-18",
-    "price": 325.92,
+    "ready_date": "2024-09-19",
+    "price": 5999999.0,
     "service_type": "other"
   },
   {
@@ -139,8 +1372,8 @@
     "service_name": "International Driver's License (SIM)",
     "description": "Driving license issued by Indonesian authority that can be used in 92 countries",
     "validity_days": 1095,
-    "ready_date": "2024-09-10",
-    "price": 27.11,
+    "ready_date": "2024-09-11",
+    "price": 499000.0,
     "service_type": "other"
   },
   {
@@ -148,8 +1381,8 @@
     "service_name": "Indonesian Passport Application - New Application Electronic Passport",
     "description": "Create new electronic passport for Indonesian citizen",
     "validity_days": 3650,
-    "ready_date": "2024-08-01",
-    "price": 97.72,
+    "ready_date": "2024-08-02",
+    "price": 1799000.0,
     "service_type": "other"
   },
   {
@@ -157,8 +1390,8 @@
     "service_name": "Add-on Service",
     "description": "Add-on Service",
     "validity_days": 1,
-    "ready_date": "2024-08-06",
-    "price": 13.54,
+    "ready_date": "2024-08-07",
+    "price": 249100.0,
     "service_type": "other"
   },
   {
@@ -166,8 +1399,8 @@
     "service_name": "Indonesian Passport Application - New Application 48-Pages Passport",
     "description": "Create new 48-pages passport for Indonesian citizen",
     "validity_days": 3650,
-    "ready_date": "2024-08-01",
-    "price": 84.19,
+    "ready_date": "2024-08-02",
+    "price": 1549900.0,
     "service_type": "other"
   },
   {
@@ -175,8 +1408,8 @@
     "service_name": "Additional Government Fee Offshore ITAS",
     "description": "Additional government fee for ITAS application from outside Indonesia",
     "validity_days": 1,
-    "ready_date": "2024-07-31",
-    "price": 156.93,
+    "ready_date": "2024-08-01",
+    "price": 2889000.0,
     "service_type": "other"
   },
   {
@@ -184,8 +1417,8 @@
     "service_name": "BPJS Kesehatan Registration",
     "description": "Registration of Indonesia universal health care system",
     "validity_days": null,
-    "ready_date": "2024-08-19",
-    "price": 27.11,
+    "ready_date": "2024-08-20",
+    "price": 499000.0,
     "service_type": "other"
   },
   {
@@ -193,8 +1426,8 @@
     "service_name": "Airport Meet & Greet",
     "description": "We help you go through airport procedures with your personal VIP assistant",
     "validity_days": 1,
-    "ready_date": "2024-08-06",
-    "price": 65.13,
+    "ready_date": "2024-08-07",
+    "price": 1199000.0,
     "service_type": "other"
   }
 ]

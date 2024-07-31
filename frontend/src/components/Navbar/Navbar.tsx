@@ -4,8 +4,14 @@ import Link from "next/link";
 import { CurrencySelect } from "@/components/CurrencySelect";
 import { MagnifyingGlass } from "@phosphor-icons/react";
 import { Button } from "@/components/Button";
+import React from "react";
 
-export function Navbar() {
+interface NavbarProps {
+  openModal: () => void;
+  currCode: string;
+}
+
+export const Navbar: React.FC<NavbarProps> = ({openModal, currCode}) => {
   return (
     <header className="fixed bg-white z-10 flex justify-center w-full h-20">
       <div className="flex gap-8 w-full items-center max-w-7xl">
@@ -16,7 +22,7 @@ export function Navbar() {
           <Link className="font-bold" href="/">Company</Link>
           <Link className="font-bold" href="/">Home</Link>
         </nav>
-        <CurrencySelect />
+        <CurrencySelect onClick={openModal} currCode={currCode} />
         <MagnifyingGlass className="" />
         <Button label="Get Started" />
       </div>
