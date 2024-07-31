@@ -20,13 +20,13 @@ export function Card({
   currency,
 }: CardProps) {
 
-  const formatDate = (dateString) => {
+  const formatDate = (dateString:string) => {
     const date = new Date(dateString);
     const options = { day: '2-digit', month: 'short', year: 'numeric' };
     return date.toLocaleDateString('en-GB', options);
   }
 
-  const priceFmt = (number) => {
+  const priceFmt = (number:number) => {
     return new Intl.NumberFormat('id-ID', {
       minimumFractionDigits: 2,
       maximumFractionDigits: 2
