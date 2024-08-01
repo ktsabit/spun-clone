@@ -65,6 +65,7 @@ export const currencies = [
   { symbol: 'S$', code: 'SGD', name: 'Singapore Dollar' },
   { symbol: '฿', code: 'THB', name: 'Thai Baht' },
   { symbol: '₺', code: 'TRY', name: 'Turkish Lira' },
+  { symbol: '$', code: 'USD', name: 'US Dollar' },
   { symbol: 'R', code: 'ZAR', name: 'South African Rand' },
 ];
 
